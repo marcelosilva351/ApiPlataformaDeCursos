@@ -1,0 +1,12 @@
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Dominio\bin\Debug\net5.0\Cursos.Dominio.deps.json
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Dominio\bin\Debug\net5.0\Cursos.Dominio.dll
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Dominio\bin\Debug\net5.0\ref\Cursos.Dominio.dll
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Dominio\bin\Debug\net5.0\Cursos.Dominio.pdb
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Dominio\obj\Debug\net5.0\Cursos.Dominio.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Dominio\obj\Debug\net5.0\Cursos.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Dominio\obj\Debug\net5.0\Cursos.Dominio.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Dominio\obj\Debug\net5.0\Cursos.Dominio.AssemblyInfo.cs
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Dominio\obj\Debug\net5.0\Cursos.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Dominio\obj\Debug\net5.0\Cursos.Dominio.dll
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Dominio\obj\Debug\net5.0\ref\Cursos.Dominio.dll
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Dominio\obj\Debug\net5.0\Cursos.Dominio.pdb

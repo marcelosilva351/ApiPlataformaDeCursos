@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oLd8fl5INiQV+D/MqrThujaYerYmNTJ8PN/4es1+4Kfxv0vDpbeOdHgZgAHVGDovaiSACS32pTZHRtLFGpowpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marce\\source\\repos\\CursosApiDdd\\Cursos.Dominio\\Cursos.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

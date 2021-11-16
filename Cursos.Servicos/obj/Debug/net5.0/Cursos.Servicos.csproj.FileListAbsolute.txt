@@ -1,0 +1,17 @@
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Servicos\bin\Debug\net5.0\Cursos.Servicos.deps.json
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Servicos\bin\Debug\net5.0\Cursos.Servicos.dll
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Servicos\bin\Debug\net5.0\ref\Cursos.Servicos.dll
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Servicos\bin\Debug\net5.0\Cursos.Servicos.pdb
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Servicos\bin\Debug\net5.0\Cursos.Dominio.dll
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Servicos\bin\Debug\net5.0\Cursos.Infra.dll
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Servicos\bin\Debug\net5.0\Cursos.Dominio.pdb
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Servicos\bin\Debug\net5.0\Cursos.Infra.pdb
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Servicos\obj\Debug\net5.0\Cursos.Servicos.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Servicos\obj\Debug\net5.0\Cursos.Servicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Servicos\obj\Debug\net5.0\Cursos.Servicos.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Servicos\obj\Debug\net5.0\Cursos.Servicos.AssemblyInfo.cs
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Servicos\obj\Debug\net5.0\Cursos.Servicos.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Servicos\obj\Debug\net5.0\Cursos.Servicos.csproj.CopyComplete
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Servicos\obj\Debug\net5.0\Cursos.Servicos.dll
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Servicos\obj\Debug\net5.0\ref\Cursos.Servicos.dll
+C:\Users\marce\source\repos\CursosApiDdd\Cursos.Servicos\obj\Debug\net5.0\Cursos.Servicos.pdb
